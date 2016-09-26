@@ -9,3 +9,4 @@ scanf("%d%d",&a,&b);
 c=a+b;
 printf("c=",c);
 }
+no changes are necessary
